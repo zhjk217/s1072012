@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+  int main() {
+  int x,y; //定義數字
+  cin >> x >> y; //輸入數字
+  cout << x << "+" << y << "=" << x+y << endl ; //輸出運算後的數字
